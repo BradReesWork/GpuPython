@@ -3,21 +3,21 @@ Demo code for Smart Talk Meetup
 
 https://www.meetup.com/Central-Maryland-Smart-Talks-Meetup/events/248200636/
 
-Dataset provided by Zillow
-	https://www.zillow.com/research/data/ 
-	https://www.zillow.com/corp/Terms.htm
+## Dataset provided by Zillow
+** https://www.zillow.com/research/data/ 
+** https://www.zillow.com/corp/Terms.htm
 
 	"Zillow, and the Zillow Economic Research Team, firmly believe that not only do data want to be free, data are going to be free. 
 	Instead of simply publishing raw data, we believe in the power of pushing data up the ladder from raw data bits, 
 	to actionable information and finally to unique insight."
 
-Python code
-	* Anaconda (anaconda.org)
-	* MapD (mapd.com)
-	* H2O (h2o.ai/h2o4gpu/)
-	* GPU DataFrame (https://github.com/gpuopenanalytics/pygdf)
+## Python code
+..* Anaconda (anaconda.org)
+..* MapD (mapd.com)
+..* H2O (h2o.ai/h2o4gpu/)
+..* GPU DataFrame (https://github.com/gpuopenanalytics/pygdf)
 
-NVIDIA 
+## NVIDIA 
 
  *
  * Copyright (c) 2018, NVIDIA CORPORATION. All rights reserved.
