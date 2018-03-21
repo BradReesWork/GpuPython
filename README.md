@@ -13,7 +13,6 @@ https://www.meetup.com/Central-Maryland-Smart-Talks-Meetup/events/248200636/
 
 ## Python code
 ..* Anaconda (anaconda.org)
-..* MapD (mapd.com)
 ..* H2O (h2o.ai/h2o4gpu/)
 ..* GPU DataFrame (https://github.com/gpuopenanalytics/pygdf)
 
